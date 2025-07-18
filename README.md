@@ -18,8 +18,7 @@ This project was developed during my internship at Acumen Building Enterprise to
 To build a proof-of-concept security tool that works independently or in conjunction with existing motion alert platforms like Swann camera notifications.
 
 ## 📸 Demo / Images
-![Prototype Setup](images/prototype.jpg)
+
 
 ## 📄 Documentation
-- [Trigger Script (Python)](pi_code/trigger.py)
-- [VBA Alert Macro](vba_macro/alert_trigger.bas)
+
