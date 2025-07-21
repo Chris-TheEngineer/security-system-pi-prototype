@@ -15,4 +15,4 @@ Technologies Used
 - Sensors, relay modules, speakers, LEDs
 
 Goal
-To build a proof-of-concept security tool that works independently or in conjunction with existing motion alert platforms like Swann camera notifications.
+- To build a proof-of-concept security tool that works independently or in conjunction with existing motion alert platforms like Swann camera notifications.
