@@ -1,4 +1,4 @@
-# 📦 Bill of Materials – Security System Prototype
+Bill of Materials – Security System Prototype
 
 | Item                     | Description                            
 |--------------------------|----------------------------------------
