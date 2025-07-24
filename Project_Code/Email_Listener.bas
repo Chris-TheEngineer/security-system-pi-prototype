@@ -40,7 +40,7 @@ Sub EmailListener()
                 Set Request = CreateObject("MSXML2.ServerXMLHTTP.6.0")
 
                 ' TRIGGER the alarm
-                Trigger = "http://192.168.200.189:5000/trigger"
+                Trigger = "YOUR_OWN_URL"
                 Request.Open "GET", Trigger, False
                 Request.Send
                 Debug.Print "Triggered alarm - Status: " & Request.Status
@@ -51,7 +51,7 @@ Sub EmailListener()
 
                 ' RESET the alarm
                 Set Request = CreateObject("MSXML2.ServerXMLHTTP.6.0")
-                Reset = "http://192.168.200.189:5000/reset"
+                Reset = "YOUR_OWN_URL"
                 Request.Open "GET", Reset, False
                 Request.Send
                 Debug.Print "Reset alarm - Status: " & Request.Status
